@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    width: 350px;
+    border: 2px  solid black;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.img {
+    width: 350px;
+}
+
+.btn {
+    text-decoration: none;
+    display: block;
+    background-color: darkslateblue;
+    height: 60px;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    font-size: 25px;
+    border-radius: 9px;
+    margin: 15px;
+    font-weight: 800;
+}
+
+.btn:hover {
+    background-color: mediumslateblue;
+    font-size: 30px;
+}
+
+.h2 {
+    margin: 27px;
+    font-size: 39px;
+    font-weight: 700;
+}
+
+.text {
+    margin: 30px;
+    font-size: 20px;
+    font-weight: 350;
+}
+
+.h1 {
+    font-weight: 500;
+}
